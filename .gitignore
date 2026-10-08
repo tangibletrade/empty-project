@@ -1,0 +1,7 @@
+.claude/settings.local.json
+sk-ant*.txt
+.env*
+!.env.example
+node_modules
+.vercel
+dist
